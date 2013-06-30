@@ -1,4 +1,4 @@
 minesweeper
 ===========
 
-my first project
+my first project Qt
