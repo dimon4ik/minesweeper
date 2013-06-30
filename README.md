@@ -1,4 +1,4 @@
 minesweeper
 ===========
 
-game
+my new project
