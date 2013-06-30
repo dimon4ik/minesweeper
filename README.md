@@ -1,4 +1,4 @@
 minesweeper
 ===========
 
-my new project
+my first project
